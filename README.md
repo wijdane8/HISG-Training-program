@@ -4,9 +4,9 @@
 
 | #    | Topic                             | Duration   | Day             | Progress         |
 | ---- | --------------------------------- | ---------- | --------------- | ---------------- |
-| **#000** | **Mastering C#**                     | **0:47**       | **Sun. 2/16/2025** | -                |
-| #001 | Introduction to C#.NET            | 29:24      |                 | -                |
-| #002 | Solution And Project in C#       | 38:44      |                 | -                |
+| **#000** | **Mastering C#**                     | **0:47**       | **Sun. 2/16/2025** | Completed                |
+| #001 | Introduction to C#.NET            | 29:24      |                 | Completed                |
+| #002 | Solution And Project in C#       | 38:44      |                 | Completed                |
 | #003 | Variables in C#                   | 27:46      |                 | -                |
 | #004 | Boolean Types & Operators in C#   | 35:58      |                 | -                |
 | #005 | Arrays in C#                      | 24:22      |                 | -                |
