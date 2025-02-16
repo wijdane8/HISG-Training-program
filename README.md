@@ -7,8 +7,8 @@
 | **#000** | **Mastering C#**                     | **0:47**       | **Sun. 2/16/2025** | Completed                |
 | #001 | Introduction to C#.NET            | 29:24      |                 | Completed                |
 | #002 | Solution And Project in C#       | 38:44      |                 | Completed                |
-| #003 | Variables in C#                   | 27:46      |                 | -                |
-| #004 | Boolean Types & Operators in C#   | 35:58      |                 | -                |
+| #003 | Variables in C#                   | 27:46      |                 | Completed                |
+| #004 | Boolean Types & Operators in C#   | 35:58      |                 | Completed                |
 | #005 | Arrays in C#                      | 24:22      |                 | -                |
 | **#006** | **Expressions in C#**                 | **1:11:12**    | **Mon. 2/17/2025** | -                |
 | #007 | Casting / Type Conversion in C#   | 53:18      |                 | -                |
