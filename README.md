@@ -12,7 +12,7 @@
 | #005 | Arrays in C#                      | 24:22      |                 | Completed                |
 | **#006** | **Expressions in C#**                 | **1:11:12**    | **Mon. 2/17/2025** | Completed                |
 | #007 | Casting / Type Conversion in C#   | 53:18      |                 | Completed                |
-| #008 | OOP - Field & Constant in C#      | 42:45      |                 | -                |
+| #008 | OOP - Field & Constant in C#      | 42:45      |                 | Completed                |
 | **#009** | **OOP - Methods in C#**               | **1:00:39**    | **Tue. 2/18/2025** | -                |
 | #010 | OOP - Constructor in C#           | 1:00:45    |                 | -                |
 | #011 | OOP - Properties in C#            | 39:14      |                 | -                |
