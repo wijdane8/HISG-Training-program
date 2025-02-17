@@ -10,7 +10,7 @@
 | #003 | Variables in C#                   | 27:46      |                 | Completed                |
 | #004 | Boolean Types & Operators in C#   | 35:58      |                 | Completed                |
 | #005 | Arrays in C#                      | 24:22      |                 | Completed                |
-| **#006** | **Expressions in C#**                 | **1:11:12**    | **Mon. 2/17/2025** | -                |
+| **#006** | **Expressions in C#**                 | **1:11:12**    | **Mon. 2/17/2025** | Completed                |
 | #007 | Casting / Type Conversion in C#   | 53:18      |                 | -                |
 | #008 | OOP - Field & Constant in C#      | 42:45      |                 | -                |
 | **#009** | **OOP - Methods in C#**               | **1:00:39**    | **Tue. 2/18/2025** | -                |
