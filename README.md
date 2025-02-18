@@ -14,7 +14,7 @@
 | #007 | Casting / Type Conversion in C#   | 53:18      |                 | Completed                |
 | #008 | OOP - Field & Constant in C#      | 42:45      |                 | Completed                |
 | **#009** | **OOP - Methods in C#**               | **1:00:39**    | **Tue. 2/18/2025** | Completed                |
-| #010 | OOP - Constructor in C#           | 1:00:45    |                 | -                |
+| #010 | OOP - Constructor in C#           | 1:00:45    |                 | Completed                |
 | #011 | OOP - Properties in C#            | 39:14      |                 | -                |
 | #012 | OOP - Indexers in C#             | 32:15      |                 | -                |
 | **#013** | **Delegate in C#**                    | **31:11**      | **Wed. 2/19/2025** | -                |
