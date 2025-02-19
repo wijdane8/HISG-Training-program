@@ -17,7 +17,7 @@
 | #010 | OOP - Constructor in C#           | 1:00:45    |                 | Completed                |
 | #011 | OOP - Properties in C#            | 39:14      |                 | Completed                |
 | #012 | OOP - Indexers in C#             | 32:15      |                 | Completed                |
-| **#013** | **Delegate in C#**                    | **31:11**      | **Wed. 2/19/2025** | -                |
+| **#013** | **Delegate in C#**                    | **31:11**      | **Wed. 2/19/2025** | Completed                |
 | #014 | OOP - Events in C#                | 26:28      |                 | -                |
 | #015 | OOP - Operator Overloading        | 20:47      |                 | -                |
 | #016 | OOP - Finalizer in C#             | 16:43      |                 | -                |
