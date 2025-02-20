@@ -19,7 +19,7 @@
 | #012 | OOP - Indexers in C#             | 32:15      |                 | Completed                |
 | **#013** | **Delegate in C#**                    | **31:11**      | **Wed. 2/19/2025** | Completed                |
 | #014 | OOP - Events in C#                | 26:28      |                 | Completed                |
-| #015 | OOP - Operator Overloading        | 20:47      |                 | -                |
+| #015 | OOP - Operator Overloading        | 20:47      |                 | Completed                |
 | #016 | OOP - Finalizer in C#             | 16:43      |                 | -                |
 | #017 | Nested Types in C#                | 21:18      |                 | -                |
 | #018 | Debugging in C#                   | 30:14      |                 | -                |
