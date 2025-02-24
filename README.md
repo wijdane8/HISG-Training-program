@@ -23,7 +23,7 @@
 | #016 | OOP - Finalizer in C#             | 16:43      |                 | Completed                |
 | #017 | Nested Types in C#                | 21:18      |                 | Completed                |
 | #018 | Debugging in C#                   | 30:14      |                 | Completed                |
-| **#019** | **Struct in C#**                      | **46:29**      | **Thu. 2/20/2025** | -                |
+| **#019** | **Struct in C#**                      | **46:29**      | **Thu. 2/20/2025** | Completed                |
 | #020 | Enums in C#                      | 32:48      |                 | -                |
 | #021 | Inheritance in C#                 | 1:28:37    |                 | -                |
 | **#022** | **Interface in C#**                   | **27:51**      | **Sun. 2/23/2025** | -                |
