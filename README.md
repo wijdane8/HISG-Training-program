@@ -28,8 +28,8 @@
 | #021 | Inheritance in C#                 | 1:28:37    |                 | Completed                |
 | **#022** | **Interface in C#**                   | **27:51**      | **Sun. 2/23/2025** | Completed                |
 | #023 | Generics in C#                    | 39:40      |                 | Completed                |
-| #024 | Generic Delegate Type in C#       | 26:23      |                 | -                |
-| #025 | Exceptions in C#                 | 46:40      |                 | -                |
+| #024 | Generic Delegate Type in C#       | 26:23      |                 | Completed                |
+| #025 | Exceptions in C#                 | 46:40      |                 | Completed                |
 | #026 | Enumerators Iterators in C#       | 39:52      |                 | -                |
 | **#027** | **XML Documentation in C#**          | **48:00**      | **Mon. 2/24/2025** | -                |
 | #028 | Extension Methods in C#          | 44:20      |                 | -                |
