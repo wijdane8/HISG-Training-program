@@ -26,8 +26,8 @@
 | **#019** | **Struct in C#**                      | **46:29**      | **Thu. 2/20/2025** | Completed                |
 | #020 | Enums in C#                      | 32:48      |                 | Completed                |
 | #021 | Inheritance in C#                 | 1:28:37    |                 | Completed                |
-| **#022** | **Interface in C#**                   | **27:51**      | **Sun. 2/23/2025** | -                |
-| #023 | Generics in C#                    | 39:40      |                 | -                |
+| **#022** | **Interface in C#**                   | **27:51**      | **Sun. 2/23/2025** | Completed                |
+| #023 | Generics in C#                    | 39:40      |                 | Completed                |
 | #024 | Generic Delegate Type in C#       | 26:23      |                 | -                |
 | #025 | Exceptions in C#                 | 46:40      |                 | -                |
 | #026 | Enumerators Iterators in C#       | 39:52      |                 | -                |
