@@ -32,7 +32,7 @@
 | #025 | Exceptions in C#                 | 46:40      |                 | Completed                |
 | #026 | Enumerators Iterators in C#       | 39:52      |                 | Completed                |
 | **#027** | **XML Documentation in C#**          | **48:00**      | **Mon. 2/24/2025** | Completed                |
-| #028 | Extension Methods in C#          | 44:20      |                 | -                |
+| #028 | Extension Methods in C#          | 44:20      |                 | Completed                |
 | #029 | Assemblies in C#                 | 38:43      |                 | -                |
 | #030 | Reflection And Metadata in C#    | 58:14      |                 | -                |
 | **#031** | **Attributes in C#**                 | **56:16**      | **Tue. 2/25/2025** | -                |
