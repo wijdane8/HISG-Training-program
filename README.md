@@ -26,28 +26,28 @@
 | **#019** | **Struct in C#**                      | **46:29**      | **Thu. 2/20/2025** | Completed                |
 | #020 | Enums in C#                      | 32:48      |                 | Completed                |
 | #021 | Inheritance in C#                 | 1:28:37    |                 | Completed                |
-| **#022** | **Interface in C#**                   | **27:51**      | **Sun. 2/23/2025** | Completed                |
+| **#022** | **Interface in C#**                   | **27:51**      | **Mon. 2/24/2025** | Completed                |
 | #023 | Generics in C#                    | 39:40      |                 | Completed                |
 | #024 | Generic Delegate Type in C#       | 26:23      |                 | Completed                |
 | #025 | Exceptions in C#                 | 46:40      |                 | Completed                |
 | #026 | Enumerators Iterators in C#       | 39:52      |                 | Completed                |
-| **#027** | **XML Documentation in C#**          | **48:00**      | **Mon. 2/24/2025** | Completed                |
+| **#027** | **XML Documentation in C#**          | **48:00**      | **Tue. 2/25/2025** | Completed                |
 | #028 | Extension Methods in C#          | 44:20      |                 | Completed                |
 | #029 | Assemblies in C#                 | 38:43      |                 | need empty mind                |
 | #030 | Reflection And Metadata in C#    | 58:14      |                 | need empty mind                |
-| **#031** | **Attributes in C#**                 | **56:16**      | **Tue. 2/25/2025** | -                |
+| **#031** | **Attributes in C#**                 | **56:16**      | **Wed. 2/26/2025** | -                |
 | #032 | Lists And Dictionaries            | 56:45      |                 | -                |
 | #033 | Stack and Queue in C#             | 40:38      |                 | -                |
-| **#034** | **LinkedList HashSet SortedSet C#**  | **48:09**      | **Wed. 2/26/2025** | -                |
+| **#034** | **LinkedList HashSet SortedSet C#**  | **48:09**      | **Thu. 2/27/2025** | -                |
 | #035 | Stream I/O in C#                 | 1:28:16    |                 | -                |
-| **#036** | **Nuget Packages and Packaging in C#** | **1:01:34**    | **Thu. 2/27/2025** | -                |
-| **#037** | **Threading in C#**                   | **1:20:25**    | **Sun. 3/2/2025**  | -                |
-| **#038** | **Asynchronous Programming in C#**    | **1:56:17**    | **Mon. 3/3/2025**  | -                |
+| **#036** | **Nuget Packages and Packaging in C#** | **1:01:34**    | **Sun. 3/2/2025** | -                |
+| **#037** | **Threading in C#**                   | **1:20:25**    | **Mon. 3/3/2025**  | -                |
+| **#038** | **Asynchronous Programming in C#**    | **1:56:17**    | **Tue. 3/4/2025**  | -                |
 | #039 | Serialization in C#.NET          | 50:22      |                 | -                |
 | #040 | C# Foreach / Yield Deep Dive      | 27:38      |                 | -                |
-| **#041** | **Records in C#**                     | **47:53**      | **Tue. 3/4/2025**  | -                |
+| **#041** | **Records in C#**                     | **47:53**      | **Wed. 3/5/2025**  | -                |
 | #042 | Top Level statement in C#         | 36:55      |                 | -                |
-| **#043** | **Working with NULL in C#**           | **1:04:54**    | **Wed. 3/5/2025**  | -                |
+| **#043** | **Working with NULL in C#**           | **1:04:54**    | **Thu. 3/6/2025**  | -                |
 | #044 | Strings in C#                     | 1:12:02    |                 | -                |
 | #045 | StringBuilder in C#              | 38:25      |                 | -                |
 | #046 | Tuple Type                        | 37:01      |                 | -                |
