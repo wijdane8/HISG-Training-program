@@ -33,12 +33,12 @@
 | #026 | Enumerators Iterators in C#       | 39:52      |                 | Completed                |
 | **#027** | **XML Documentation in C#**          | **48:00**      | **Tue. 2/25/2025** | Completed                |
 | #028 | Extension Methods in C#          | 44:20      |                 | Completed                |
-| #029 | Assemblies in C#                 | 38:43      |                 | need empty mind                |
-| #030 | Reflection And Metadata in C#    | 58:14      |                 | need empty mind                |
+| #029 | Assemblies in C#                 | 38:43      |                 | -                |
+| #030 | Reflection And Metadata in C#    | 58:14      |                 | -                |
 | **#031** | **Attributes in C#**                 | **56:16**      | **Wed. 2/26/2025** | -                |
-| #032 | Lists And Dictionaries            | 56:45      |                 | -                |
-| #033 | Stack and Queue in C#             | 40:38      |                 | -                |
-| **#034** | **LinkedList HashSet SortedSet C#**  | **48:09**      | **Thu. 2/27/2025** | -                |
+| #032 | Lists And Dictionaries            | 56:45      |                 | Completed                |
+| #033 | Stack and Queue in C#             | 40:38      |                 | Completed                |
+| **#034** | **LinkedList HashSet SortedSet C#**  | **48:09**      | **Thu. 2/27/2025** | Completed                |
 | #035 | Stream I/O in C#                 | 1:28:16    |                 | -                |
 | **#036** | **Nuget Packages and Packaging in C#** | **1:01:34**    | **Sun. 3/2/2025** | -                |
 | **#037** | **Threading in C#**                   | **1:20:25**    | **Mon. 3/3/2025**  | -                |
