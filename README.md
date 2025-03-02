@@ -40,7 +40,7 @@
 | #033 | Stack and Queue in C#             | 40:38      |                 | Completed                |
 | **#034** | **LinkedList HashSet SortedSet C#**  | **48:09**      | **Thu. 2/27/2025** | Completed                |
 | #035 | Stream I/O in C#                 | 1:28:16    |                 | Completed                |
-| **#036** | **Nuget Packages and Packaging in C#** | **1:01:34**    | **Sun. 3/2/2025** | -                |
+| **#036** | **Nuget Packages and Packaging in C#** | **1:01:34**    | **Sun. 3/2/2025** | Completed                |
 | **#037** | **Threading in C#**                   | **1:20:25**    | **Mon. 3/3/2025**  | -                |
 | **#038** | **Asynchronous Programming in C#**    | **1:56:17**    | **Tue. 3/4/2025**  | -                |
 | #039 | Serialization in C#.NET          | 50:22      |                 | -                |
