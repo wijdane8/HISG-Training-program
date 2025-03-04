@@ -42,8 +42,8 @@
 | #035 | Stream I/O in C#                 | 1:28:16    |                 | Completed                |
 | **#036** | **Nuget Packages and Packaging in C#** | **1:01:34**    | **Sun. 3/2/2025** | Completed                |
 | **#037** | **Threading in C#**                   | **1:20:25**    | **Mon. 3/3/2025**  | Completed                |
-| **#038** | **Asynchronous Programming in C#**    | **1:56:17**    | **Tue. 3/4/2025**  | -                |
-| #039 | Serialization in C#.NET          | 50:22      |                 | -                |
+| **#038** | **Asynchronous Programming in C#**    | **1:56:17**    | **Tue. 3/4/2025**  | Completed                |
+| #039 | Serialization in C#.NET          | 50:22      |                 | Completed                |
 | #040 | C# Foreach / Yield Deep Dive      | 27:38      |                 | -                |
 | **#041** | **Records in C#**                     | **47:53**      | **Wed. 3/5/2025**  | -                |
 | #042 | Top Level statement in C#         | 36:55      |                 | -                |
