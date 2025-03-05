@@ -44,7 +44,7 @@
 | **#037** | **Threading in C#**                   | **1:20:25**    | **Mon. 3/3/2025**  | Completed                |
 | **#038** | **Asynchronous Programming in C#**    | **1:56:17**    | **Tue. 3/4/2025**  | Completed                |
 | #039 | Serialization in C#.NET          | 50:22      |                 | Completed                |
-| #040 | C# Foreach / Yield Deep Dive      | 27:38      |                 | -                |
+| #040 | C# Foreach / Yield Deep Dive      | 27:38      |                 | Completed                |
 | **#041** | **Records in C#**                     | **47:53**      | **Wed. 3/5/2025**  | -                |
 | #042 | Top Level statement in C#         | 36:55      |                 | -                |
 | **#043** | **Working with NULL in C#**           | **1:04:54**    | **Thu. 3/6/2025**  | -                |
