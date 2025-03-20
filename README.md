@@ -48,6 +48,6 @@
 | **#041** | **Records in C#**                     | **47:53**      | **Wed. 3/5/2025**  | Completed                |
 | #042 | Top Level statement in C#         | 36:55      |                 | Completed                |
 | **#043** | **Working with NULL in C#**           | **1:04:54**    | **Thu. 3/6/2025**  | Completed                |
-| #044 | Strings in C#                     | 1:12:02    |                 | -                |
-| #045 | StringBuilder in C#              | 38:25      |                 | -                |
-| #046 | Tuple Type                        | 37:01      |                 | -                |
+| #044 | Strings in C#                     | 1:12:02    |                 | Completed                |
+| #045 | StringBuilder in C#              | 38:25      |                 | Completed                |
+| #046 | Tuple Type                        | 37:01      |                 | Completed                |
